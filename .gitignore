@@ -1,0 +1,11 @@
+.venv/
+build/
+dist/
+__pycache__/
+output/
+logs/
+config.json
+*.bak
+*.exe
+test_screen.png
+@AutomationLog.txt

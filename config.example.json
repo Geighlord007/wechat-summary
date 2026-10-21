@@ -1,0 +1,19 @@
+{
+  "groups": [
+    "示例群聊"
+  ],
+  "range": {
+    "mode": "yesterday",
+    "hours": 24,
+    "days": 7
+  },
+  "schedule": {
+    "freq": "none",
+    "time": "09:07",
+    "every_hours": 3,
+    "weekday": "MON"
+  },
+  "send": true,
+  "image_understanding": false,
+  "max_images": 8
+}

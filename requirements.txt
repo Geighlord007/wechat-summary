@@ -1,0 +1,5 @@
+uiautomation>=2.0
+pillow>=10.0
+customtkinter>=6.0
+# 仅打包 exe 时需要：
+pyinstaller>=6.0
